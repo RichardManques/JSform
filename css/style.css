@@ -1,0 +1,24 @@
+body {
+    background: cornsilk;
+  }
+  .caja {
+    margin-bottom: 30px;
+    padding: 16px;
+    box-shadow: 3px 3px 10px grey;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    background: white;
+  }
+  .caja input {
+    margin-bottom: 8px;
+    padding: 8px;
+  }
+  
+  .caja button {
+    padding: 8px;
+    background: cornflowerblue;
+    border: 0px;
+    box-shadow: 3px 3px 10px grey;
+    color: #fff;
+  }
